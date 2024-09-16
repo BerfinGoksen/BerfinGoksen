@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Berfin
+# Hi there 👋 I'm Berfin
 I am a 4th year student at Isparta University of Applied Sciences, Department of Computer Engineering.
 
 -🔭 I’m currently working on Dart,Flutter
@@ -7,7 +7,8 @@ I am a 4th year student at Isparta University of Applied Sciences, Department of
 
 -📫 How to reach me: *https://www.linkedin.com/in/berfingoksen/*
 
-##About Me
+## About Me
+
 Currently, I'm leading a TÜBİTAK 2209-A funded project aimed at improving campus accessibility for students with disabilities.
 
 🔧 Technologies I work with:
