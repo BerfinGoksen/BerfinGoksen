@@ -21,5 +21,5 @@ Game Development: Unity, Unreal Engine
 
 Databases: SQL
 
-Programming Languages: C++, C#
+Programming Languages: C++, C#, Dart
 
