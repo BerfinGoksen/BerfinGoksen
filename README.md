@@ -26,9 +26,7 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <img src="![image](https://github.com/user-attachments/assets/fe90f44e-fd8a-430c-8856-e5d7e473a512)
-"/> 
-     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
