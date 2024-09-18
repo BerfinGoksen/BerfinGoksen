@@ -40,7 +40,7 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
            <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFyEQ9FxotJhVjnyqErZ7DCjQlUmkDYO2Bw&s" alt="cpp" width="45" height="45"/> </a> 
               <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShf0LHTk9yRL3wPoqXENgl8Kcmci37yoSSYw&s" alt="cSharp" width="45" height="45"/> </a> 
               
-                 <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFyEQ9FxotJhVjnyqErZ7DCjQlUmkDYO2Bw&s" alt="sql" width="45" height="45"/> </a> 
+               
           
       
 </p>
