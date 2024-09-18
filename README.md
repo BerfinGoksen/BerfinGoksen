@@ -38,7 +38,7 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
           <a href="https://www.blender.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrv4skDGETyKxXiOA1Gw-PsOGVJ6F6i0hiQ&s" alt="blender" width="45" height="45"/> </a> 
            <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" alt="sql" width="45" height="45"/> </a> 
            <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFyEQ9FxotJhVjnyqErZ7DCjQlUmkDYO2Bw&s" alt="cpp" width="45" height="45"/> </a> 
-              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShf0LHTk9yRL3wPoqXENgl8Kcmci37yoSSYw&s" alt="cSharp" width="45" height="45"/> </a> 
+              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.jpeg" alt="cSharp" width="45" height="45"/> </a> 
               
                
           
