@@ -38,7 +38,7 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
           <a href="https://www.blender.org/" target="_blank"> <img src="https://icons.veryicon.com/png/Application/Crystal%20BW/Blender.png" alt="blender" width="45" height="45"/> </a> 
            <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" alt="sql" width="45" height="45"/> </a> 
            <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="cpp" width="45" height="45"/> </a> 
-              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://c0.klipartz.com/pngpicture/210/105/gratis-png-c-c-programacion-de-computadora-javascript.png" alt="cSharp" width="45" height="45"/> </a> 
+              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png" alt="cSharp" width="45" height="45"/> </a> 
               
                
           
