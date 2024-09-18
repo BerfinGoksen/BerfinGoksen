@@ -36,6 +36,12 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
     <a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_emea_emea-t1_en_pu_sem-gg_acq_br-pr_2023-01_brand-et1_cc3022_ev-br_id:71700000105990349&utm_content=cc_dd_upr_emea_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008262875201&utm_term=unity&&&&&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nz4GSxakWZ4EMHYUu2itoBFZ2UwgeSHYAD-BQftTwezTLUl5jjVBlQaArhYEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="45" height="45"/> </a> 
        <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2020/08/Unreal-Engine.png" alt="unreal engine" width="45" height="45"/> </a> 
           <a href="https://www.blender.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrv4skDGETyKxXiOA1Gw-PsOGVJ6F6i0hiQ&s" alt="blender" width="45" height="45"/> </a> 
+           <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" alt="sql" width="45" height="45"/> </a> 
+           <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFyEQ9FxotJhVjnyqErZ7DCjQlUmkDYO2Bw&s" alt="cpp" width="45" height="45"/> </a> 
+              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShf0LHTk9yRL3wPoqXENgl8Kcmci37yoSSYw&s" alt="cSharp" width="45" height="45"/> </a> 
+              
+                 <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFyEQ9FxotJhVjnyqErZ7DCjQlUmkDYO2Bw&s" alt="sql" width="45" height="45"/> </a> 
+          
       
 </p>
 
