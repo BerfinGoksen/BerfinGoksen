@@ -13,11 +13,11 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
 
 🔧 Technologies I work with:
 
-🌐 Web Development: ASP.NET Core, HTML, CSS
+🌐 Web Development: ASP.NET Core, HTML, CSS, JavaScript
 
-📱 Mobile Development: Flutter, Dart
+📱 Mobile Development: Flutter, Dart, Postman
 
-🎮 Game Development: Unity, Unreal Engine
+🎮 Game Development: Unity, Unreal Engine, Blender
 
 🗄️ Databases: SQL
 
@@ -27,11 +27,16 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
 
 <p align="left"> 
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".net" width="45" height="45"/> </a>   
+    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+        <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img-resize-cdn.joshmartin.ch/768x0%2Cc3537b9f46b5f6055fbc8b4cd03b6b2cc63fc2eefd3d8cd9f0c9f99a5933e496/https://joshmartin.ch/app/uploads/2017/10/css3.svg" alt=".net" width="45" height="45"/> </a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_emea_emea-t1_en_pu_sem-gg_acq_br-pr_2023-01_brand-et1_cc3022_ev-br_id:71700000105990349&utm_content=cc_dd_upr_emea_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008262875201&utm_term=unity&&&&&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nz4GSxakWZ4EMHYUu2itoBFZ2UwgeSHYAD-BQftTwezTLUl5jjVBlQaArhYEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="45" height="45"/> </a> 
+       <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2020/08/Unreal-Engine.png" alt="unreal engine" width="45" height="45"/> </a> 
+          <a href="https://www.blender.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrv4skDGETyKxXiOA1Gw-PsOGVJ6F6i0hiQ&s" alt="blender" width="45" height="45"/> </a> 
+      
 </p>
 
 
