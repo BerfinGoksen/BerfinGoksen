@@ -37,7 +37,7 @@ Currently, I'm leading a **TÜBİTAK 2209-A** funded project aimed at improving 
        <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png" alt="unreal engine" width="45" height="45"/> </a> 
           <a href="https://www.blender.org/" target="_blank"> <img src="https://icons.veryicon.com/png/Application/Crystal%20BW/Blender.png" alt="blender" width="45" height="45"/> </a> 
            <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" alt="sql" width="45" height="45"/> </a> 
-           <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://e7.pngegg.com/pngimages/579/803/png-clipart-the-c-programming-language-programmer-computer-programming-programming-blue-logo.png" alt="cpp" width="45" height="45"/> </a> 
+           <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory." target="_blank"> <img src="https://e7.pngegg.com/pngimages/579/803/png-clipart-the-c-programming-language-programmer-computer-programming-programming-blue-logo-thumbnail.png" alt="cpp" width="45" height="45"/> </a> 
               <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://c0.klipartz.com/pngpicture/210/105/gratis-png-c-c-programacion-de-computadora-javascript.png" alt="cSharp" width="45" height="45"/> </a> 
               
                
