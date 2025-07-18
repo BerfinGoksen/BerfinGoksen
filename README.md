@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Berfin
-I am a 4th year student at Isparta University of Applied Sciences, Department of Computer Engineering.
+I graduated from Isparta University of Applied Sciences, Department of Computer Engineering as of July 2025.
 
 -🔭 I’m currently working on Dart,Flutter
 
