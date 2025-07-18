@@ -83,9 +83,4 @@ Feel free to reach out!
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerfinGoksen&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
----
 
-<!-- Profile Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BerfinGoksen&label=Profile%20views&color=0e75b6&style=flat" alt="BerfinGoksen" />
-</p>
